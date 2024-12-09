@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97077309405",
+    "project_id": "acciondemejoraa-a9a79",
+    "storage_bucket": "acciondemejoraa-a9a79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97077309405:android:771230e6d46b0eeb439034",
+        "android_client_info": {
+          "package_name": "com.example.accion_de_mejora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jKfwEZtxcdQfUOTbaTU_SejBZfJAaag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
